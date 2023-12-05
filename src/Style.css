@@ -1,0 +1,36 @@
+.content {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  position: relative;
+  width: 1920px;
+}
+
+.content .banner {
+  height: 980px;
+  position: relative;
+  width: 1920px;
+}
+
+.content .sections {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  padding: 0px 240px;
+  width: 100%;
+}
+
+.section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
